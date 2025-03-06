@@ -1,0 +1,11 @@
+atomita:
+  name: Tomita
+  title: Engineer
+  url: https://github.com/akiyoshitomita
+  image_url: https://github.com/akiyoshitomita.png
+  page: true
+  socials:
+    # x: sebastienlorber
+    # linkedin: sebastienlorber
+    github: akiyoshitomita
+    # newsletter: https://thisweekinreact.com
