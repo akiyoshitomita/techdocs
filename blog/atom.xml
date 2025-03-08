@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://i3.gmobb.jp/tech/blog</id>
+    <title>ワイの技術 Blog</title>
+    <updated>2025-02-23T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="http://i3.gmobb.jp/tech/blog"/>
+    <subtitle>ワイの技術 Blog</subtitle>
+    <icon>http://i3.gmobb.jp/tech/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[サイト開設のおしらせ]]></title>
+        <id>http://i3.gmobb.jp/tech/blog/2025/02/23/first-blog-post</id>
+        <link href="http://i3.gmobb.jp/tech/blog/2025/02/23/first-blog-post"/>
+        <updated>2025-02-23T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[サイト開設]]></summary>
+        <content type="html"><![CDATA[<p>サイトを新設しました。
+ゆっくりと更新していこうと思っています。</p>
+<p>もし気に入ってくれたらサイトを拡散して得ただけると嬉しいです。</p>]]></content>
+        <author>
+            <name>Tomita</name>
+            <uri>https://github.com/akiyoshitomita</uri>
+        </author>
+        <category label="サイト情報" term="サイト情報"/>
+    </entry>
+</feed>

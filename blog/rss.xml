@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ワイの技術 Blog</title>
+        <link>http://i3.gmobb.jp/tech/blog</link>
+        <description>ワイの技術 Blog</description>
+        <lastBuildDate>Sun, 23 Feb 2025 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ja</language>
+        <item>
+            <title><![CDATA[サイト開設のおしらせ]]></title>
+            <link>http://i3.gmobb.jp/tech/blog/2025/02/23/first-blog-post</link>
+            <guid>http://i3.gmobb.jp/tech/blog/2025/02/23/first-blog-post</guid>
+            <pubDate>Sun, 23 Feb 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[サイト開設]]></description>
+            <content:encoded><![CDATA[<p>サイトを新設しました。
+ゆっくりと更新していこうと思っています。</p>
+<p>もし気に入ってくれたらサイトを拡散して得ただけると嬉しいです。</p>]]></content:encoded>
+            <category>サイト情報</category>
+        </item>
+    </channel>
+</rss>

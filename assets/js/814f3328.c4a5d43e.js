@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktechdocs=self.webpackChunktechdocs||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u30b5\u30a4\u30c8\u958b\u8a2d\u306e\u304a\u3057\u3089\u305b","permalink":"/tech/blog/2025/02/23/first-blog-post","unlisted":false,"date":"2025-02-23T00:00:00.000Z"}]}')}}]);
