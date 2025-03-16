@@ -1,0 +1,9 @@
+{
+  "label": "WEBドキュメント制作",
+  "position": 50,
+  "link": {
+    "type": "generated-index",
+    "description": "Docusaurusを利用したWEBドキュメント作成"
+  }
+}
+
