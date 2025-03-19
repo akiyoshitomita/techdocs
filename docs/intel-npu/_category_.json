@@ -1,0 +1,8 @@
+{
+  "label": "Intel NPU",
+  "position": 200,
+  "link": {
+    "type": "generated-index",
+    "description": "Intel NPUについて記載します"
+  }
+}
