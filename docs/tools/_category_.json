@@ -1,0 +1,8 @@
+{
+  "label": "便利ツール",
+  "position": 400,
+  "link": {
+    "type": "generated-index",
+    "description": "便利ツールを紹介します"
+  }
+}
