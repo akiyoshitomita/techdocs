@@ -1,0 +1,8 @@
+{
+  "label": "地図",
+  "position": 300,
+  "link": {
+    "type": "generated-index",
+    "description": "地図を利用するアプリケーションの基本的な情報を記載します"
+  }
+}

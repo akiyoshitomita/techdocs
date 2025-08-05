@@ -38,6 +38,8 @@ const config: Config = {
       'classic',
       {
         docs: {
+	  routeBasePath: 'docs',
+	  path: 'docs',
           sidebarPath: './sidebars.ts',
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -79,6 +81,17 @@ const config: Config = {
       } satisfies Preset.Options,
     ],
   ],
+  plugins: [
+	  [
+		  '@docusaurus/plugin-content-docs',
+		  {
+			  id: 'pi',
+			  path: 'pi',
+			  routeBasePath: 'pi',
+			  sidebarPath: require.resolve('./sidebars.js'),
+		  },
+	  ],
+  ],
 
   themeConfig: {
     // Replace with your project's social card
@@ -96,6 +109,12 @@ const config: Config = {
           position: 'left',
           label: '技術情報',
         },
+	{
+		to: '/tech/pi/',
+		position: 'left',
+		label: 'arm h/w',
+		activeBaseRegex: '/tech/pi/',
+	},
         {to: '/blog', label: 'Blog', position: 'left'},
         {
           href: 'https://github.com/akiyoshitomita/techdocs',
