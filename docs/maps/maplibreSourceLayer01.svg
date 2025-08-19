@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 41.231 819.396 339.141" xmlns:bx="https://boxy-svg.com">
+  <g>
+    <path d="M 351.916 113.241 L 449.477 134.728 L 351.916 156.215 L 254.355 134.728 Z" bx:shape="n-gon 351.916 134.728 97.561 21.487 4 0 1@3163a67a" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <path d="M 350.755 91.753 L 448.316 113.24 L 350.755 134.727 L 253.194 113.24 Z" bx:shape="n-gon 350.755 113.24 97.561 21.487 4 0 1@2acc6014" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+    <path d="M 354.24 69.686 L 451.801 91.173 L 354.24 112.66 L 256.679 91.173 Z" bx:shape="n-gon 354.24 91.173 97.561 21.487 4 0 1@5086cd7f" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+    <g transform="matrix(1, 0, 0, 1, -12.195124, -83.623703)">
+      <rect x="60.395" y="164.344" width="94.077" height="58.072" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+      <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="107.724" cy="164.634" rx="46.748" ry="13.066"/>
+      <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;" cx="108.015" cy="222.997" rx="46.748" ry="13.066"/>
+    </g>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="49.942" y="171.893">source</text>
+    <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="318.235" y="189.315">layer</text>
+    <path d="M 161.44 244.71 H 209.727 L 209.727 229.71 L 249.727 249.71 L 209.727 269.71 L 209.727 254.71 H 161.44 V 244.71 Z" bx:shape="arrow 161.44 229.71 88.287 40 10 40 0 1@0b242197" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(0.999805, -0.019733, 0.019733, 0.999805, -7.218966, -133.815628)"/>
+  </g>
+  <path d="M 356.271 282.521 L 453.832 304.008 L 356.271 325.495 L 258.71 304.008 Z" bx:shape="n-gon 356.271 304.008 97.561 21.487 4 0 1@00fe0674" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  <path d="M 355.11 261.033 L 452.671 282.52 L 355.11 304.007 L 257.549 282.52 Z" bx:shape="n-gon 355.11 282.52 97.561 21.487 4 0 1@15626845" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  <path d="M 358.595 238.966 L 456.156 260.453 L 358.595 281.94 L 261.034 260.453 Z" bx:shape="n-gon 358.595 260.453 97.561 21.487 4 0 1@b2553dd5" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  <g transform="matrix(1, 0, 0, 1, -7.840148, 85.656067)">
+    <rect x="60.395" y="164.344" width="94.077" height="58.072" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);"/>
+    <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" cx="107.724" cy="164.634" rx="46.748" ry="13.066"/>
+    <ellipse style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;" cx="108.015" cy="222.997" rx="46.748" ry="13.066"/>
+  </g>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; stroke-width: 1;" x="54.297" y="341.173">source</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; stroke-width: 1;" x="325.494" y="354.53">layer</text>
+  <path d="M 161.44 244.71 H 209.727 L 209.727 229.71 L 249.727 249.71 L 209.727 269.71 L 209.727 254.71 H 161.44 V 244.71 Z" bx:shape="arrow 161.44 229.71 88.287 40 10 40 0 1@0b242197" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;" transform="matrix(0.999805, -0.019733, 0.019733, 0.999805, -2.863991, 35.464142)"/>
+  <path d="M 685.249 217.123 L 782.81 238.61 L 685.249 260.097 L 587.688 238.61 Z" bx:shape="n-gon 685.249 238.61 97.561 21.487 4 0 1@682c487b" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  <path d="M 684.669 209.575 L 782.23 231.062 L 684.669 252.549 L 587.108 231.062 Z" bx:shape="n-gon 684.669 231.062 97.561 21.487 4 0 1@703341b4" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  <path d="M 683.509 201.444 L 781.07 222.931 L 683.509 244.418 L 585.948 222.931 Z" bx:shape="n-gon 683.509 222.931 97.561 21.487 4 0 1@d2222831" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  <path d="M 685.831 193.895 L 783.392 215.382 L 685.831 236.869 L 588.27 215.382 Z" bx:shape="n-gon 685.831 215.382 97.561 21.487 4 0 1@6e61147c" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  <path d="M 688.154 186.346 L 785.715 207.833 L 688.154 229.32 L 590.593 207.833 Z" bx:shape="n-gon 688.154 207.833 97.561 21.487 4 0 1@f2b6b85e" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1;"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px; stroke-width: 1;" x="652.311" y="299.006">map</text>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;" x="748.548" y="361.724"> </text>
+  <path d="M 471.545 125.017 H 561.861 L 561.861 110.017 L 601.861 130.017 L 561.861 150.017 L 561.861 135.017 H 471.545 V 125.017 Z" bx:shape="arrow 471.545 110.017 130.316 40 10 40 0 1@f36323cd" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(0.917989, 0.396607, -0.396607, 0.917989, 90.237587, -176.35498)"/>
+  <path d="M 479.675 281.231 H 549.012 L 549.012 266.231 L 589.012 286.231 L 549.012 306.231 L 549.012 291.231 H 479.675 V 281.231 Z" bx:shape="arrow 479.675 266.231 109.337 40 10 40 0 1@03253cb9" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0);" transform="matrix(0.892293, -0.451458, 0.451458, 0.892293, -77.556412, 247.382004)"/>
+</svg>
