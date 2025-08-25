@@ -97,7 +97,7 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: '俺流',
+      title: '我流',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
