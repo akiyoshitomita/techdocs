@@ -138,6 +138,10 @@ const config: Config = {
         {
           title: 'Community',
           items: [
+            {
+	      label: '問い合わせ',
+	      href: 'https://form.run/@akiyoshi-tomita-WcNo8Fxgx0Jh7jMpYTdL'
+	    }
             /*{
               label: 'Stack Overflow',
               href: 'https://stackoverflow.com/questions/tagged/docusaurus',

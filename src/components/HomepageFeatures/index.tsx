@@ -37,9 +37,9 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        現時点では質問等はできないようになっていますが、問い合わせフォームを作成する予定です。
-        GITHUBへのリンクを載せているので、そちらからIssueを切ってもらっても構いませんが、
-        普段から確認をこなっていないので対応は遅くなる可能性があります。
+        <a href="https://form.run/@akiyoshi-tomita-WcNo8Fxgx0Jh7jMpYTdL">問い合わせフォーム</a>から問い合わせをお願いします。
+	本サイトに関する意見からご指摘から調査依頼など何でも結構です。お気軽にお問い合わせください。
+	返信不要な連絡でも構いません。
       </>
     ),
   },
