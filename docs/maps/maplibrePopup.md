@@ -6,6 +6,11 @@ sidebar_position: 205
 
 Maplibre GLの地図上にポップアップ（吹き出し）を表示する方法を記載します。
 
+import Map from '@site/src/components/map/maplibrePopup';
+
+<Map></Map>
+
+
 ```TypeScript showLineNumbers
     const popup = new maplibregl.Popup()
         .setLngLat([lng, lat])
