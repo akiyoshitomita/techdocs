@@ -1,0 +1,8 @@
+{
+  "label": "大規模データ処理",
+  "position": 350,
+  "link": {
+    "type": "generated-index",
+    "description": "大規模データ処理についての基本から実際の設計までを記載します"
+  }
+}
