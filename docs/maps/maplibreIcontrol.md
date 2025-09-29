@@ -17,9 +17,22 @@ IControlオブジェクトを自作することも可能で、必要なボタン
 mapクラスのaddControl()メソッドでIControlオブジェクトを追加することで表示します。
 
 ```
-map.current.addControl(new maplibre.ScaleControl());
+map.current.addControl(new maplibregl.ScaleControl());
 ```
 
+## 距離計の表示
 
+距離計を表示する場合、`ScaleControle`クラスを作成しマップに追加します。
+
+import Map from '@site/src/components/map/maplibreScale';
+
+<Map></Map>
+
+
+```
+map.current.addControl(new maplibregl.ScaleControl());
+```
+
+サンプルは左下に表示されます。  
 
 
