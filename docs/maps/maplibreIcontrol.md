@@ -20,6 +20,25 @@ mapクラスのaddControl()メソッドでIControlオブジェクトを追加す
 map.current.addControl(new maplibregl.ScaleControl());
 ```
 
+## 現在位置へ移動ボタンの表示
+
+ボタンをクリックすると、ブラウザの現在位置へ移動するボタンを表示します。
+
+
+import Map2 from '@site/src/components/map/maplibreGeolocate';
+
+<Map2></Map2>
+
+```
+map.current.addControl(new maplibregl.GeolocateControl());
+```
+
+
+:::Note
+GeolocateControlクラスには、Watchモードと言うユーザの移動履歴を追跡するモードがあります。こちらの動作は本ページでは紹介しません。  
+後日別ページで紹介する予定です
+:::
+
 ## 距離計の表示
 
 距離計を表示する場合、`ScaleControle`クラスを作成しマップに追加します。
