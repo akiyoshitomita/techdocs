@@ -39,6 +39,23 @@ GeolocateControlクラスには、Watchモードと言うユーザの移動履�
 後日別ページで紹介する予定です
 :::
 
+## ナビゲーションボタンの表示
+
+
+地図の基本的なナビゲーションボタンを表示する場合、`NavigationControle`クラスを作成しマップに追加します。
+
+import Map3 from '@site/src/components/map/maplibreNavigation';
+
+<Map3></Map3>
+
+
+```
+map.current.addControl(new maplibregl.NavigationControl());
+```
+
+サンプルは右上にに表示されます。  
+
+
 ## 距離計の表示
 
 距離計を表示する場合、`ScaleControle`クラスを作成しマップに追加します。
