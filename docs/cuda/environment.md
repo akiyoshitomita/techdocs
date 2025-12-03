@@ -49,13 +49,47 @@ sudo apt-get update
 sudo apt-get -y install cuda-toolkit-12-9
 ```
 
-インストールされたツールキットは`/usr/local/cuda-12-9/`に入っています。
+インストールされたツールキットは`/usr/local/cuda-12.9/`に入っています。
 cuda-toolkitを利用する場合は、bashで以下のコマンドを入力してください。
 ```
 export PATH=${PATH}:/usr/local/cuda/bin
-export PATH=$LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/loca/cuda/lib64
+export PATH=$LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:/usr/local/cuda/lib64
 ```
 bashrcやprofile.dに登録しておくと便利です。 
+
+* `/usr/local/cuda` ディレクトリについて
+
+このディレクトリは、サーバ内で利用しているcudaのバージョンへのシンボリックリンクが入っています。
+バージョンを確認する場合は `update-alternaties --display cuda`と入力します。
+
+```bash title='実行例'
+$ update-alternatives --display cuda
+cuda - manual mode
+  link best version is /usr/local/cuda-13.0
+  link currently points to /usr/local/cuda-12.9
+  link cuda is /usr/local/cuda
+/usr/local/cuda-12.9 - priority 129
+/usr/local/cuda-13.0 - priority 130
+```
+
+link currently pointsが現在利用しているバージョンです。
+
+変更する場合は`sudo update-alternatives --config cuda`と入力してウィザードで変更してください。
+
+```
+$ sudo update-alternatives --config cuda
+There are 2 choices for the alternative cuda (providing /usr/local/cuda).
+
+  Selection    Path                  Priority   Status
+------------------------------------------------------------
+  0            /usr/local/cuda-13.0   130       auto mode
+* 1            /usr/local/cuda-12.9   129       manual mode
+  2            /usr/local/cuda-13.0   130       manual mode
+
+Press <enter> to keep the current choice[*], or type selection number: 1
+```
+
+
 
 :::warning
 aptパッケージにnvidia-cuda-toolkitというものがありますが、こちらはCanonicalのaptレポジトリに登録されているものになります。どちらでも動作はしますが、インストールパスやバージョンに差異があります。
