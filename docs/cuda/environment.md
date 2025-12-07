@@ -89,6 +89,9 @@ There are 2 choices for the alternative cuda (providing /usr/local/cuda).
 Press <enter> to keep the current choice[*], or type selection number: 1
 ```
 
+:::note
+cudaドライバーAPIは後方互換がありますが、本書ではバージョンは合わせることをおすすめします。
+:::
 
 
 :::warning
